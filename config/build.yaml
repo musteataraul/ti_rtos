@@ -1,6 +1,6 @@
 variants:
     generic:
         uses:
-            swfw_soc_shar: &adaptive_cfg
+            adaptive_cfg: &adaptive_cfg
                 release: "1.4"
                 variant: generic
