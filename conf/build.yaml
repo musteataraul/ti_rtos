@@ -1,0 +1,6 @@
+variants:
+    generic:
+        uses:
+            adaptive_cfg: &adaptive_cfg
+                release: "1.4"
+                variant: generic
