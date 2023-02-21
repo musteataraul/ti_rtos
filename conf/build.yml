@@ -4,7 +4,7 @@ variants:
         
             uses:
                 swfw_soc_shar: &alias_swfw_soc_shar
-                    release: "1.44"
+                    release: "1.4"
                     variant: generic
                 swfw_shared_ti: &alias_swfw_shared_ti
                     release: "1.3"
