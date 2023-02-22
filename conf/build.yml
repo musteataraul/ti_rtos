@@ -1,7 +1,6 @@
 variants:
     generic:
-        production:
-        
+     
             uses:
                 swfw_soc_shar: &alias_swfw_soc_shar
                     release: "1.4"
